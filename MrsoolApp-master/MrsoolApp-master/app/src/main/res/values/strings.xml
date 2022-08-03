@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mrsool App</string>
+    <string name="email">inquiries@mrsool.com</string>
+    <string name="r">Riyadh</string>
+    <string name="mm">2022 Mrsool.All rights reserved.</string>
+    <string name="h">\u2022Covers all restaurantsand \n  stores in KSA.</string>
+
+    <string name="place">  \u2022Send whatever you want to any place.</string>
+    <string name="mrsool_is_one_of_the_largest_delivery_platform_in_the_region">Mrsool is one of the largest delivery platform in the region</string>
+    <string name="what_we_offer">What We Offer</string>
+    <string name="contacts">Contacts</string>
+</resources>
